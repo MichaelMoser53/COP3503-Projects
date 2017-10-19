@@ -1,11 +1,10 @@
-// Michael Moser
-// n00976174
+// Project 4
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class n00976174{
+public class Project4{
 
 
 public static void main(String[] args) throws FileNotFoundException{
