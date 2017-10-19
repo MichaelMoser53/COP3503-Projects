@@ -1,4 +1,3 @@
-// Michael Moser
 // Assignment 6
 
 import java.util.Calendar; 
@@ -22,7 +21,7 @@ import javafx.scene.shape.Arc;
 import javafx.scene.shape.ArcType;
 
 
-public class n00976174 extends Application {
+public class Project6 extends Application {
 
   @Override 
   public void start(Stage primaryStage) {
