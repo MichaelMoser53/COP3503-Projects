@@ -1,11 +1,8 @@
-// Michael Moser
-// UNF ID: n00976174
-// Ken Martin COP 3503
 // Assignment 3
 
 import java.util.*;
 
-public class n00976174 {
+public class Project3 {
 
    public static void main(String[] args){
       
