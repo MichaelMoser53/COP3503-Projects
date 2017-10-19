@@ -1,10 +1,6 @@
-// Michael Moser
-// UNF ID: n00976174
-// Ken Martin COP 3503
-
 import java.util.Scanner;
 
-public class n00976174 {
+public class Project1 {
    public static void main(String[] args){
       
       Scanner input = new Scanner(System.in);
