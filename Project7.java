@@ -1,4 +1,3 @@
-// Michael Moser
 // Assignment 7
 // I know the video is sideways, it adds artistic touch
 
@@ -40,7 +39,7 @@ import javafx.scene.control.Label;
 
 
 // class contains main method for JavaFX
-public class n00976174 extends RectangleBounceSlider{
+public class Project7 extends RectangleBounceSlider{
 
 
   public static void main(String[] args) {
